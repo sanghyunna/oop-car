@@ -20,7 +20,7 @@ object-oriented design with a `Car` class and conceptual car parts.
 - Encapsulation: each part manages its own state and exposes small methods.
 - Responsibility split: parts handle part behaviors; `Car` coordinates them.
 
-## ����
+## How to run
 
 ```bash
 python main.py
