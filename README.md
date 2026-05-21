@@ -1,4 +1,4 @@
-# Dummy Calculator OOP Example
+# Dummy Car OOP Example
 
 This repository contains a small vanilla Python example of object-oriented design
 object-oriented design with a `Car` class and conceptual car parts.
